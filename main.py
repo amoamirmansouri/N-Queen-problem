@@ -89,4 +89,4 @@ else:
             print(i+1,"best solution so far", current_population[0])
 
     else:
-        print("Sorry, we could not find you a solution!!!")
+        print("Sorry, we could not find you a solution!!! :( ")
